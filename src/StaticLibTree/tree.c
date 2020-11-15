@@ -81,6 +81,7 @@ static void search_nodes(const node* p, void (*func)(const node* p))
 }
 
 
+
 //
 // keyの小さな順にコールバック関数funcを呼び出す
 //
